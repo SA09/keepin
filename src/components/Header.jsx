@@ -5,8 +5,8 @@ function Header() {
   return (
     <header>
       <h1>
-        <HighlightIcon />
-        Keeper
+        //<HighlightIcon />
+        KeepIn
       </h1>
     </header>
   );
