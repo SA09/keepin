@@ -4,7 +4,7 @@ function Footer() {
   const year = new Date().getFullYear();
   return (
     <footer>
-      <p>Copyright ⓒ {year}</p>
+      <a href ="https://github.com/SA09/keepin">code</a>
     </footer>
   );
 }
